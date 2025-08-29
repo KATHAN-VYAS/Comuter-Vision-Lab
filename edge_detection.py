@@ -47,7 +47,7 @@ while True:
 # Step 8: Release resources
 cap.release()
 cv2.destroyAllWindows()
-=======
+
 import cv2
 import numpy as np
 
@@ -96,4 +96,4 @@ while True:
 # Step 8: Release resources
 cap.release()
 cv2.destroyAllWindows()
->>>>>>> 741c0f3 (template detection code)
+
